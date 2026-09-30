@@ -13,17 +13,16 @@
 ---
 
 # 🎓 Education
+Ho Chi Minh City University of Technology (HUTECH)
+B.S. in Data Science — Third-year student
+GPA: 3.2/4.0)
 
-**Data Science Program**  
-Student focusing on Machine Learning & Computer Vision  
-
-🗣️ **Languages**: Vietnamese (Native), English  
+🗣️ **Languages**: Vietnamese , English  
 
 ---
 
 # 💻 Tech Stack:
-
-| Category | Skills |
+|
 |---|---|
 | Languages | Python, R, SQL |
 | Computer Vision | OpenCV, YOLOv8 |
