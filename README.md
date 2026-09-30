@@ -21,14 +21,17 @@ GPA: 3.2/4.0)
 
 ---
 
+---
+
 # 💻 Tech Stack:
-|
+
+| **Category** | **Skills** |
 |---|---|
-| Languages | Python, R, SQL |
-| Computer Vision | OpenCV, YOLOv8 |
-| Data & ML | Pandas, NumPy, Matplotlib, Scikit-learn |
-| Deep Learning | PyTorch |
-| Tools | Jupyter Notebook, Git, GitHub |
+| 🔤 Languages | Python, R, SQL |
+| 👁️ Computer Vision | OpenCV, YOLOv8 |
+| 📊 Data & ML | Pandas, NumPy, Matplotlib, Scikit-learn |
+| 🧠 Deep Learning | PyTorch |
+| 🛠️ Tools | Jupyter Notebook, Git, GitHub |
 
 ---
 
